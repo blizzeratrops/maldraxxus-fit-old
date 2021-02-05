@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109305887435",
+    "firebase_url": "https://maldraxxus-fit-default-rtdb.firebaseio.com",
+    "project_id": "maldraxxus-fit",
+    "storage_bucket": "maldraxxus-fit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109305887435:android:e5ef50ed6743d4616fb94e",
+        "android_client_info": {
+          "package_name": "com.example.maldraxxus_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109305887435-vsilhf1trpv4e12qjc600jmqafse7140.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL0r3HKHQrx3dhJxf7Fp7m0vNidbD-IcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109305887435-vsilhf1trpv4e12qjc600jmqafse7140.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
